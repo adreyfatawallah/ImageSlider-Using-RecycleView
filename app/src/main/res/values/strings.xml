@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageSlider Using RecycleView</string>
+    <string name="sample">sample</string>
+
+    <array name="title">
+        <item>Slider 1</item>
+        <item>Slider 2</item>
+        <item>Slider 3</item>
+        <item>Slider 4</item>
+    </array>
+</resources>
