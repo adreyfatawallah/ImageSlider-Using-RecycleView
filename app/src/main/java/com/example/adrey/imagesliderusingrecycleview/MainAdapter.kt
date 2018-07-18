@@ -63,7 +63,7 @@ class MainAdapter(private val context: Context,
         var arrow = 0
         val runnable = object : Runnable {
             override fun run() {
-                handler.postDelayed(this, 5000)
+                handler.postDelayed(this, 3000)
 
                 /**
                  * loop left to right if last index to first index
